@@ -39,7 +39,7 @@ sd_D <- sd(D)
 
 Lalu, ditampilkan hasilnya dengan perintah ```print(sd_D)```
 
-Hasil yang didapatkan :
+Hasil yang didapatkan :<br/>
 ![hasil1](./img/1a.jpeg)
 <br/>
 
